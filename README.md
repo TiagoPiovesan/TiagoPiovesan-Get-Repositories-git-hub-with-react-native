@@ -1,5 +1,5 @@
 # Get Repositories GitHub with react-native
-A tutorial from course of RoctSeat about React Native and API.
+A tutorial from course of RoctSeat about React Native and API's.
 
 1. Enter a valid login github
 2. Make a Request to api.github.com
