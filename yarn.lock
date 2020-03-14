@@ -1131,9 +1131,9 @@ acorn-walk@^6.0.1:
   integrity sha512-7evsyfH1cLOCdAzZAd43Cic04yKydNx0cF+7tiA19p1XnLLPU4dpCQOqpjqwokFe//vS0QqfqqjCS2JkiIs0cA==
 
 acorn@^5.5.3:
-  version "5.7.3"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
-  integrity sha512-T/zvzYRfbVojPWahDsE5evJdHb3oJoQfFbsrKM7w5Zcs++Tr257tia3BmMP8XYVjp1S9RZXQMh7gao96BlqZOw==
+  version "5.7.4"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.4.tgz#3e8d8a9947d0599a1796d10225d7432f4a4acf5e"
+  integrity sha512-1D++VG7BhrtvQpNbBzovKNc1FLGGEE/oGe7b9xJm/RFHMBeUaUGpluV9RLjZa47YFdPcDAenEYuq9pQPcMdLJg==
 
 acorn@^6.0.1:
   version "6.3.0"
@@ -5111,11 +5111,6 @@ pn@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/pn/-/pn-1.1.0.tgz#e2f4cef0e219f463c179ab37463e4e1ecdccbafb"
   integrity sha512-2qHaIQr2VLRFoxe2nASzsV6ef4yOOH+Fi9FBOVH6cqeSgUnoyySPZkxzLuzd+RYOQTRpROA0ztTMqxROKSb/nA==
-
-porp-types@^0.0.1-security:
-  version "0.0.1-security"
-  resolved "https://registry.yarnpkg.com/porp-types/-/porp-types-0.0.1-security.tgz#924140cb786e03e54252fa1812c93d1cc240da6a"
-  integrity sha512-+cuPmgFZ4ooY94aSSBk1+WFtP5zcjySVmFPgUrV9GFdN6MOc0G/tDeRBRhpLMZIBG7M0w001PEGQK9xSPzVFFA==
 
 posix-character-classes@^0.1.0:
   version "0.1.1"
